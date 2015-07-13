@@ -1317,7 +1317,7 @@ span.underline {
     padding: 0!important;
 }
 .content.container-fluid {
-    margin: 170px 13% 100px;
+    margin: 50px 50px 50px;
 }
 .content .title-container {
     display: block;
@@ -1335,7 +1335,7 @@ span.underline {
     font-size: 100px;
     color: #4c4d57;
     font-weight: 900;
-    margin: 140px 0 0;
+    margin: 100px 0 0;
     font-family: Lato, sans-serif;
 }
 .content hr {
